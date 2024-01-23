@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 package_name = 'forest'
-
+#pip install -r requirement.txt
 list_of_files = [
     f"src/{package_name}/__init__.py",
     f"src/{package_name}/components/__init__.py",
